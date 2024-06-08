@@ -2,9 +2,9 @@
 - 👀 I’m interested in coding especially in javascript and react
 - 🌱 I’m currently learning react to be proficient
 - 💞️ I’m looking to collaborate on any project involving the above named languges and more
-- 📫 How to reach me 
+- 📫 How to reach me 0794584870 official phone number
 - 😄 Pronouns: he him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 
 <!---
 Shaqsdean/Shaqsdean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
